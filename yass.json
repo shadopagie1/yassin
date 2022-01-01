@@ -34,11 +34,10 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : false,
-      "update_action" : "https://bit.ly/3d1kS5L",
-      "update_msg" : "",
-      "update_state" : false,
-      "update_title" : "update the app to start watching movies + bonus Free Netflix account "
+            "update_action" : "https://bit.ly/3pI8VZX",
+      "update_msg" : "احصل علىIPTV مجانا لمشاهدة بين سبورت",
+      "update_state" : true,
+      "update_title" : "update تحديت  "
     },
     "app" : {
       "mode_off_version" : "0"
