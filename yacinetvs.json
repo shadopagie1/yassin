@@ -1,0 +1,105 @@
+{
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
+      "admob_native_id" : "",
+      "admob_rewarded_id" : "",
+      "admob_unit_id" : ""
+    },
+    "appodeal" : {
+      "appodeal_app_key" : ""
+    },
+    "facebook" : {
+      "facebook_banner_id" : "IMG_16_9_APP_INSTALL#",
+      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#",
+      "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
+      "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
+    },
+    "mode_ads_banner" : "0",
+    "mode_ads_interstitial" : "0",
+    "mode_ads_interstitial_mix" : "0",
+    "mode_ads_native_enabled" : false,
+    "mode_ads_rewarded" : "0",
+    "mode_button_ads_action" : "0",
+    "unity" : {
+      "unity_app_id" : "",
+      "unity_banner_id" : "",
+      "unity_interstitial_id" : "",
+      "unity_rewarded_id" : ""
+    },
+    "update" : {
+      "enable_update_closed" : false,
+      "update_action" : "https://bit.ly/3d1kS5L",
+      "update_msg" : "",
+      "update_state" : false,
+      "update_title" : "update the app to start watching movies + bonus Free Netflix account "
+    },
+    "app" : {
+      "mode_off_version" : "0"
+    }
+  },
+  "posts" : [
+    {
+      "id" : 0,
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/crab-game-2.jpg",
+      "state" : "free",
+      "title" : "Popular Maps and Modes and How to Progress Quickly",
+      "description" : "",
+      "written" : "This Mode is likewise referred to as the survival mode. Modes and maps are based upon the players attempting to survive what the map tosses at them. The group includes 3 methods and twelve maps. "
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/grab.jpg",
+      "state" : "free",
+      "title" : "Stepping Stone Mode ",
+      "description" : " ",
+      "written" : "This Mode is based on the seventh episode of the squid video game show where the entrants are forced to select between two pieces of glass: the one that will bear their weight and the other that will split under their weight and trigger them to be removed. This design has an impressive 6 maps that can be played. The six maps consist of three short and 3 long maps based on the count of players. The primary map is the glass jump based on the show islands, which resembles the glass map except for this place above the ocean. The platform breaking leads to a shivery and frozen elimination. The last design of this map Is icy islands, an island where whatever is covered with ice, leading to a slippery surface. "
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/qs.PNG",
+      "state" : "free",
+      "title" : "Red Light Green Light ",
+      "description" : " ",
+      "written" : " This design has an impressive 6 maps that can be played. The six maps consist of three short and 3 long maps based on the count of players. The primary map is the glass jump based on the show islands, which resembles the glass map except for this place above the ocean. The platform breaking leads to a shivery and frozen elimination. The last design of this map is icy islands, an island where whatever is covered with ice, leading to a slippery surface."
+    },
+    {
+      "id" : 3,
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/xx.PNG",
+      "state" : "free",
+      "title" : "LAST THOUGHTS ",
+      "description" : " ",
+      "written" : "The next Mode is based on the first episode of squid video game: red light green light and has three maps dessert. This map is a reproduction of the map in the program where therea( 's just a big empty area that you need to travel during the green light stages and stop entirely during the red•light phases. Moving your mouse to move your gameraf 's cam does count as motion and will get you eliminated. "
+    },
+    {
+      "id" : 4,
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/daz.jpg",
+      "state" : "free",
+      "title" : "Floors Lava Mode vip",
+      "description" : " ",
+      "written" : "This mode has 3 maps; crusty rocks, ice rocks, and lava lake. The gameplay of this Mode resembles stepping stone mode except that Instead of trying it to make from one place to another, the only land available is a platform. They randomly fall throughout the round forcing garners to remain concentrated and be prepared to jump forum at any given minute or be eliminated."
+    },
+    {
+      "id" : 5,
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/daz.jpg",
+      "state" : "vip",
+      "title" : "Floors Lava Mode vip",
+      "description" : "read More...",
+      "written" : "<p>Yacine TV Sports Live 2021</p><p><br></p><p>Yacine TV Live Sport 2021 app broadcast keeps</p><p>you up to date with live football, live soccer</p><p>scores, match details, latest football news,</p><p>league dates and everything in between Yacine</p><p>TV lets you access every aspect of the real</p><p>football world with your smartphone.</p><p><br></p><p>Are you looking for the app Yacine TV Live Sport</p><p>2021 Broadcast that lets you follow the latest</p><p>football news, live scores, matches and live</p><p>football? Great! | think the Yacine TV appis</p><p>perfect for all time. The Live Soccer app covers</p><p>top soccer leagues and provides live soccer</p><p>statistics, live commentary, goals and real-time</p><p>news.</p>"
+    },
+    {
+      "id" : 6,
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/test/main/xx.PNG",
+      "state" : "vip",
+      "title" : "KEY FEATURES",
+      "description" : "Key Features ...",
+      "written" : "<p>Key Features of Yacine TV Apk</p><p><br></p><p>Easy to use</p><p><br></p><p>Simply play.</p><p><br></p><p>Easy to install</p><p><br></p><p>Easily available</p><p><br></p><p>This application is absolutely free No ads</p><p>This application will not harm you</p><p><br></p><p>It is 100% safe</p><p><br></p><p>This application runs faster than other</p><p>applications.</p><p><br></p><p>You will be very satisfied with this</p><p>application.</p>"
+    }
+  ]
+}
